@@ -1,4 +1,4 @@
-#### intentService作用是什么,AIDL解决了什么问题-小米
+#### intentService作用是什么,AIDL解决了什么问题
 
 [android跨进程通信（IPC）：使用AIDL](http://blog.csdn.net/singwhatiwanna/article/details/17041691)
 
